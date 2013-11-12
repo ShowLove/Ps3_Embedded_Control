@@ -1,0 +1,17 @@
+private boolean triangle;
+private boolean circle;
+private boolean x;
+private boolean square;
+private boolean L1;
+private boolean R1;
+private boolean L2;
+private boolean R2;
+private boolean select;
+private boolean start;
+private boolean leftStick;
+private boolean rightStick;
+private boolean PS3;
+private boolean dPadUp;
+private boolean dPadRight;
+private boolean dPadDown;
+private boolean dPadLeft;

@@ -1,0 +1,19 @@
+private boolean %;
+17
+triangle
+circle
+x
+square
+L1
+R1
+L2
+R2
+select
+start
+leftStick
+rightStick
+PS3
+dPadUp
+dPadRight
+dPadDown
+dPadLeft

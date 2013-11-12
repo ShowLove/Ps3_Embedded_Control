@@ -1,0 +1,21 @@
+I made the test input file, and a test output file.
+
+Input File called: "control.in"
+Output File called: "control.out"
+
+First line of the input file is the format of the line
+Second line of the input file is how many items are below it
+
+INPUT EXAMPLE:
+
+Hello my name is %, and I like to partY
+2
+Daniel
+Carlos
+
+
+OUTPUT EXAMPLE:
+Hello my name is Daniel, and I like to party
+Hello my name is Carlos, and I like to party
+
+Bottom line: make a program that reads an input file and gets the output file like shown
