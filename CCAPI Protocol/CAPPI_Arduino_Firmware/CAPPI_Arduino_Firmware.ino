@@ -1,5 +1,4 @@
 ////////////////////////////////
-//Author: Daniel Mor
 //Date: 11/24/2012
 //Title: CCAPI: Custom Communication Arduino-PC Interfacing Protocol
 //Subject: Waits for commands using the CCAPI Protocol to execute commands and send back data
